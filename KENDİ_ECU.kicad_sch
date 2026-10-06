@@ -1,0 +1,428 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "1372160a-e026-4566-b885-6c2bb35eb49f")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 92.71 85.09)
+		(size 12.7 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "12d5bdb4-cfeb-4fcb-a41b-12d7f9e2d4fa")
+		(property "Sheetname" "CAN_Bus"
+			(at 92.71 84.3784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CAN_Bus.kicad_sch"
+			(at 92.71 105.9946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KENDİ_ECU"
+				(path "/1372160a-e026-4566-b885-6c2bb35eb49f"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 177.8 82.55)
+		(size 12.7 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "2e2d2fad-eca9-417b-a523-ed4a1e83d0ce")
+		(property "Sheetname" "Konektor_Soket"
+			(at 177.8 81.8384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Konektor_Soket.kicad_sch"
+			(at 177.8 107.2646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KENDİ_ECU"
+				(path "/1372160a-e026-4566-b885-6c2bb35eb49f"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 35.56 85.09)
+		(size 12.7 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "3102ef4e-0cc6-43e1-b057-66cedf95520a")
+		(property "Sheetname" "Ignition_Drivers"
+			(at 35.56 84.3784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Ignition_Drivers.kicad_sch"
+			(at 35.56 105.9946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KENDİ_ECU"
+				(path "/1372160a-e026-4566-b885-6c2bb35eb49f"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 27.94 35.56)
+		(size 12.7 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "43f7a931-e701-4ebe-82ad-0f96bcc1f083")
+		(property "Sheetname" "power_supply"
+			(at 27.94 34.8484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_supply.kicad_sch"
+			(at 27.94 55.1946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KENDİ_ECU"
+				(path "/1372160a-e026-4566-b885-6c2bb35eb49f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 125.73 31.75)
+		(size 12.7 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4b0c8676-2a90-4700-a703-75fad333f90d")
+		(property "Sheetname" "MCU_STM32"
+			(at 125.73 31.0384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU_STM32.kicad_sch"
+			(at 125.73 55.1946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KENDİ_ECU"
+				(path "/1372160a-e026-4566-b885-6c2bb35eb49f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 132.08 83.82)
+		(size 12.7 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "91920be3-a767-44f9-acfe-aef2deb58a4f")
+		(property "Sheetname" "haberleşme"
+			(at 132.08 83.1084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "bluetooth.kicad_sch"
+			(at 132.08 105.9946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KENDİ_ECU"
+				(path "/1372160a-e026-4566-b885-6c2bb35eb49f"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 179.07 31.75)
+		(size 12.7 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ac734f73-fde6-4fa7-9a90-ab7f38f8bde4")
+		(property "Sheetname" "Injector_Drivers"
+			(at 179.07 31.0384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Injector_Drivers.kicad_sch"
+			(at 179.07 52.6546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KENDİ_ECU"
+				(path "/1372160a-e026-4566-b885-6c2bb35eb49f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 68.58 33.02)
+		(size 12.7 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "cc9e9213-6de4-4e37-af1a-a5141b840933")
+		(property "Sheetname" "Sensor_Inputs"
+			(at 68.58 32.3084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_schSensor_Inputs.kicad_sch"
+			(at 68.58 55.1946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KENDİ_ECU"
+				(path "/1372160a-e026-4566-b885-6c2bb35eb49f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 220.98 85.09)
+		(size 12.7 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d5579a10-d4f1-4eee-827a-2549ae386a04")
+		(property "Sheetname" "SWD header"
+			(at 220.98 84.3784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SWD header.kicad_sch"
+			(at 220.98 107.2646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KENDİ_ECU"
+				(path "/1372160a-e026-4566-b885-6c2bb35eb49f"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
