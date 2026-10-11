@@ -59,7 +59,8 @@ Pin numaralarını ve yönlerini tablo hâlinde eklemek istersen şemaya bakarak
 | Q2-Q5 | N-MOSFET | Enjektör sürücü |
 | Q6-Q9 | NPN | Ateşleme çıkışı |
 | Y1 | 8 MHz kristal | MCP2515 saati |
-| MCU | [MCU modeli] | Ana denetleyici |
+| MCU | STM32F401CCUx ![Uploading image.png…]()
+ | Ana denetleyici |
 
 ## Dosyalar
 
