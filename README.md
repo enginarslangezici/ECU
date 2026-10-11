@@ -64,9 +64,9 @@ Pin numaralarını ve yönlerini tablo hâlinde eklemek istersen şemaya bakarak
 
 ## Dosyalar
 
-- `ECU.kicad_pro`: proje dosyası
-- `ECU.kicad_sch`: şema
-- `ECU.kicad_pcb`: kart
+- `KENDİ_ECU.kicad_pro`: proje dosyası
+- `KENDİ_ECU.kicad_sch`: şema
+- `KENDİ_ECU.kicad_pcb`: kart
 
 KiCad [sürüm numarası] ile açılır.
 
