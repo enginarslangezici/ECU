@@ -74,7 +74,7 @@ KiCad [sürüm numarası] ile açılır.
 
 - 12V dağıtımı kalın izler yerine In2.Cu zone'u ile yapıldı.
 - GND için In1.Cu ve B.Cu'da tam düzlem, bileşen GND pedleri via ile bağlanır.
-- Kart kenarı pahlı, 4 adet şasi bağlantılı montaj deliği var.
+- Kart kenarı pahlı, 3 adet şasi bağlantılı montaj deliği var.
 
 ## Yapılacaklar
 
